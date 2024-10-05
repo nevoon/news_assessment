@@ -17,7 +17,7 @@ class HomeNotifier extends ChangeNotifier{
    Future<void> firstName () async{
     final SharedPreferences prefs = await SharedPreferences.getInstance();
     String? name =  prefs.getString(Config.firstName);
-
+    print(name);
     _fName = name!;
   }
 

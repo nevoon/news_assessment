@@ -1,6 +1,6 @@
-# news_assessment
+# news_app
 
-A News assessment app For Great Brands Nigeria Limited
+A News App part page
 
 ## Getting Started
 
